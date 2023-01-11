@@ -1,2 +1,2 @@
-shap
-bizdayz
+shap==3.1
+bizdays==1.0.6
